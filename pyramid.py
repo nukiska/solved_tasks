@@ -1,4 +1,4 @@
-#  Write a function that draws a text image of a pyramid of height (n).
+#  Write a function that draws a text image of a pyramid of given height.
 
 def pyramid(n):
     counter = 1
