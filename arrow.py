@@ -4,10 +4,10 @@
 def arrow(n):
     for i in range(n):
         for j in range(n):
-            c = '.'
+            counter = '.'
             if i == n // 2 or j - i == n // 2 or i + j == n // 2 + (n - 1):
-                c = '*'
-            print(c, end='')
+                counter = '*'
+            print(counter, end='')
         print()
 
 
