@@ -1,2 +1,2 @@
 # solved_tasks
-Basic examples and their solutions
+Basic examples  from https://www.umimeprogramovat.cz/programovani-v-pythonu and their solutions
